@@ -150,11 +150,3 @@ conclusions or claims about a real retailer.
     automatically "fixed" without evidence.
 -   Return rate is based on distinct valid returned OrderIDs divided by
     total distinct orders; it is not a unit-level return rate.
-
-## Suggested next steps
-
--   Recheck relationships and measures in Power BI Desktop before
-    publishing.
--   Capture clean screenshots of all three report pages.
--   Publish the PBIX and this README together in a portfolio repository.
--   Clearly label the dataset as synthetic.
